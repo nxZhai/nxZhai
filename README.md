@@ -1,4 +1,14 @@
+# ![](https://stars-pi.vercel.app/api?username=nxZhai&count_private=true&show_icons=true&theme=transparent&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&range=all_time)
 
-<!--
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=nxZhai&show_icons=true&rank_icon=github&include_all_commits=true"/>
--->
+<p>
+  <a href="https://github.com/nxZhai/BalDRO">
+    <img width="38%" align="center" src="https://stars-pi.vercel.app/api/pin/?username=nxZhai&repo=BalDRO" />
+  </a>
+
+  <img width="3%" src="https://dummyimage.com/10x10/000000/000000.png&text=" />
+
+  <a href="https://github.com/nxZhai/FPBA">
+    <img width="38%" align="center" src="https://stars-pi.vercel.app/api/pin/?username=nxZhai&repo=FPBA" />
+  </a>
+</p>
+
