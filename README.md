@@ -1,3 +1,7 @@
+I am **Naixin Zhai**, an M.S. student at USTC, interested in **AI Safety on AI-Generated Content**.
+
+🎉 Below is the open-source code for all of my existing works. Welcome to browse, discuss, and collaborate! 
+
 <table>
 <tr>
 <td width="50%" valign="top">
