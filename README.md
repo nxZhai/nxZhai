@@ -12,7 +12,7 @@
 <p>
   <img src="https://img.shields.io/badge/ACL%202026-Oral-6f42c1?style=flat-square" alt="ACL 2026 Oral">
   <a href="https://arxiv.org/abs/2601.03190">
-    <img src="https://img.shields.io/badge/Paper-arXiv%202601.03190-b31b1b?style=flat-square" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-202601.03190-b31b1b?style=flat-square" alt="arXiv">
   </a>
   <a href="https://github.com/nxZhai/PALU">
     <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="Code">
@@ -29,7 +29,7 @@
 <p>
   <img src="https://img.shields.io/badge/WWW%202026-Web4Good-005f73?style=flat-square" alt="WWW 2026">
   <a href="https://arxiv.org/abs/2601.09172">
-    <img src="https://img.shields.io/badge/Paper-arXiv%202601.09172-b31b1b?style=flat-square" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-202601.09172-b31b1b?style=flat-square" alt="arXiv">
   </a>
   <a href="https://github.com/nxZhai/BalDRO">
     <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="Code">
@@ -48,7 +48,7 @@
 <p>
   <img src="https://img.shields.io/badge/IEEE%20TMM-2026-004b8d?style=flat-square" alt="IEEE TMM 2026">
   <a href="https://arxiv.org/abs/2407.20836">
-    <img src="https://img.shields.io/badge/Paper-arXiv%202407.20836-b31b1b?style=flat-square" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-202407.20836-b31b1b?style=flat-square" alt="arXiv">
   </a>
   <a href="https://github.com/nxZhai/FPBA">
     <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="Code">
