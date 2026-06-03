@@ -15,7 +15,7 @@
   </a>
 </p>
 
-The official implementation of "Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning". PALU studies LLM unlearning through localized entropy maximization. Instead of enforcing uncertainty everywhere, it focuses on where forgetting matters most: sensitive prefixes and critical vocabulary subspaces.
+**The official implementation of ACL2026 Oral "Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning".** PALU studies LLM unlearning through localized entropy maximization. Instead of enforcing uncertainty everywhere, it focuses on where forgetting matters most: sensitive prefixes and critical vocabulary subspaces.
 
 </td>
 <td width="50%" valign="top">
@@ -32,7 +32,7 @@ The official implementation of "Maximizing Local Entropy Where It Matters: Prefi
   </a>
 </p>
 
-The official implementation of "BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning". BalDRO formulates LLM unlearning as a min–sup optimization process. It adaptively emphasizes hard-to-unlearn samples through worst-case data distributions, with both discrete and continuous variants.
+**The official implementation of WWW26 "BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning".** BalDRO formulates LLM unlearning as a min–sup optimization process. It adaptively emphasizes hard-to-unlearn samples through worst-case data distributions, with both discrete and continuous variants.
 
 </td>
 </tr>
@@ -51,7 +51,7 @@ The official implementation of "BalDRO: A Distributionally Robust Optimization b
   </a>
 </p>
 
-The official Implementation of "Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks". FPBA investigates the adversarial vulnerability of AI-generated image detectors. It combines frequency-domain perturbations with a post-train Bayesian strategy to improve black-box transferability across heterogeneous detectors.
+**The official Implementation of TMM "Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks".** FPBA investigates the adversarial vulnerability of AI-generated image detectors. It combines frequency-domain perturbations with a post-train Bayesian strategy to improve black-box transferability across heterogeneous detectors.
 
 </td>
 <td width="50%" valign="top">
