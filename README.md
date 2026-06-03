@@ -5,24 +5,34 @@
 
 ### [PALU](https://github.com/nxZhai/PALU)
 
-**Prefix-Aware Localized LLM Unlearning**  
-**ACL 2026 Oral**
+<p>
+  <img src="https://img.shields.io/badge/ACL%202026-Oral-6f42c1?style=flat-square" alt="ACL 2026 Oral">
+  <a href="https://arxiv.org/abs/2601.03190">
+    <img src="https://img.shields.io/badge/Paper-arXiv%202601.03190-b31b1b?style=flat-square" alt="arXiv">
+  </a>
+  <a href="https://github.com/nxZhai/PALU">
+    <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="Code">
+  </a>
+</p>
 
-PALU studies LLM unlearning through localized entropy maximization. Instead of enforcing uncertainty everywhere, it focuses on where forgetting matters most: sensitive prefixes and critical vocabulary subspaces.
-
-**Paper:** [arXiv:2601.03190](https://arxiv.org/abs/2601.03190)
+The official implementation of "Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning". PALU studies LLM unlearning through localized entropy maximization. Instead of enforcing uncertainty everywhere, it focuses on where forgetting matters most: sensitive prefixes and critical vocabulary subspaces.
 
 </td>
 <td width="50%" valign="top">
 
 ### [BalDRO](https://github.com/nxZhai/BalDRO)
 
-**Distributionally Robust Optimization for LLM Unlearning**  
-**WWW 2026**
+<p>
+  <img src="https://img.shields.io/badge/WWW%202026-Web4Good-005f73?style=flat-square" alt="WWW 2026">
+  <a href="https://arxiv.org/abs/2601.09172">
+    <img src="https://img.shields.io/badge/Paper-arXiv%202601.09172-b31b1b?style=flat-square" alt="arXiv">
+  </a>
+  <a href="https://github.com/nxZhai/BalDRO">
+    <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="Code">
+  </a>
+</p>
 
-BalDRO formulates LLM unlearning as a min–sup optimization process. It adaptively emphasizes hard-to-unlearn samples through worst-case data distributions, with both discrete and continuous variants.
-
-**Paper:** [arXiv:2601.09172](https://arxiv.org/abs/2601.09172)
+The official implementation of "BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning". BalDRO formulates LLM unlearning as a min–sup optimization process. It adaptively emphasizes hard-to-unlearn samples through worst-case data distributions, with both discrete and continuous variants.
 
 </td>
 </tr>
@@ -31,21 +41,31 @@ BalDRO formulates LLM unlearning as a min–sup optimization process. It adaptiv
 
 ### [FPBA](https://github.com/nxZhai/FPBA)
 
-**Frequency-based Post-train Bayesian Attack**  
-**IEEE TMM 2026**
+<p>
+  <img src="https://img.shields.io/badge/IEEE%20TMM-2026-004b8d?style=flat-square" alt="IEEE TMM 2026">
+  <a href="https://arxiv.org/abs/2407.20836">
+    <img src="https://img.shields.io/badge/Paper-arXiv%202407.20836-b31b1b?style=flat-square" alt="arXiv">
+  </a>
+  <a href="https://github.com/nxZhai/FPBA">
+    <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="Code">
+  </a>
+</p>
 
-FPBA investigates the adversarial vulnerability of AI-generated image detectors. It combines frequency-domain perturbations with a post-train Bayesian strategy to improve black-box transferability across heterogeneous detectors.
-
-**Paper:** [arXiv:2407.20836](https://arxiv.org/abs/2407.20836)
+The official Implementation of "Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks". FPBA investigates the adversarial vulnerability of AI-generated image detectors. It combines frequency-domain perturbations with a post-train Bayesian strategy to improve black-box transferability across heterogeneous detectors.
 
 </td>
 <td width="50%" valign="top">
 
 ### [Awesome AI-generated Image Detection](https://github.com/nxZhai/Awesome-AI-generated-Image-Detection)
 
-**Curated resources for AIGI detection**
+<p>
+  <a href="https://github.com/nxZhai/Awesome-AI-generated-Image-Detection">
+    <img src="https://img.shields.io/badge/List-Awesome-ff69b4?style=flat-square" alt="Awesome List">
+  </a>
+  <img src="https://img.shields.io/badge/Topic-AIGI%20Detection-0b7285?style=flat-square" alt="AIGI Detection">
+</p>
 
-A maintained collection of papers, datasets, tools, and code for AI-generated image detection. The list is organized by benchmark, dataset, venue, and year to make literature tracking easier.
+**Curated resources for AIGI detection**. A maintained collection of papers, datasets, tools, and code for AI-generated image detection. The list is organized by benchmark, dataset, venue, and year to make literature tracking easier.
 
 </td>
 </tr>
