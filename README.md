@@ -15,5 +15,6 @@
 ## Contact information
 
 - [Google Scholar](https://scholar.google.com/citations?user=hwR0iLgAAAAJ&hl=en)
+- [Homepage](https://nxzhai.github.io/)
 - [Linkedin](https://www.linkedin.com/in/naixin-zhai-40a6a441b/)
 - [WeChat](https://nxzhai.github.io/img/naixin_wechat.jpg)
