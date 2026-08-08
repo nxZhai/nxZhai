@@ -4,13 +4,14 @@
 
 ## My recent repositories (NOT a list of publications)
 
-- \[ACL2026\] Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. <img src="https://img.shields.io/badge/ACL%202026-Oral-6f42c1?style=flat-square" alt="ACL 2026 Oral">  <a href="https://arxiv.org/abs/2601.03190"><img src="https://img.shields.io/badge/arXiv-202601.03190-b31b1b?style=flat-square" alt="arXiv"></a><a href="https://github.com/nxZhai/PALU"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="Code"></a></p>
+- \[ACL2026\] Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. ![ACL 2026 Oral](https://img.shields.io/badge/ACL%202026-Oral-6f42c1?style=flat&logo=google-scholar&logoColor=white) [![arXiv](https://img.shields.io/badge/arXiv-2601.03190-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.03190) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nxZhai/PALU)
 
-- \[WWW2026\] BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning.   <img src="https://img.shields.io/badge/WWW%202026-Web4Good-005f73?style=flat-square" alt="WWW 2026"><a href="https://arxiv.org/abs/2601.09172"><img src="https://img.shields.io/badge/arXiv-202601.09172-b31b1b?style=flat-square" alt="arXiv"></a><a href="https://github.com/nxZhai/BalDRO"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="Code"></a>
+- \[WWW2026\] BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. ![WWW 2026](https://img.shields.io/badge/WWW%202026-Web4Good-005F73?style=flat&logo=www&logoColor=white) [![arXiv](https://img.shields.io/badge/arXiv-2601.09172-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.09172) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nxZhai/BalDRO)
 
-- \[TMM\] Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks.   <img src="https://img.shields.io/badge/IEEE%20TMM-2026-004b8d?style=flat-square" alt="IEEE TMM 2026"><a href="https://arxiv.org/abs/2407.20836"><img src="https://img.shields.io/badge/arXiv-202407.20836-b31b1b?style=flat-square" alt="arXiv"></a><a href="https://github.com/nxZhai/FPBA"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="Code"></a>
+- \[TMM\] Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks. ![IEEE TMM 2026](https://img.shields.io/badge/IEEE%20TMM-2026-004B8D?style=flat&logo=ieee&logoColor=white) [![arXiv](https://img.shields.io/badge/arXiv-2407.20836-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.20836) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nxZhai/FPBA)
 
-- Awesome AI-generated Image Detection.   <a href="https://github.com/nxZhai/Awesome-AI-generated-Image-Detection"><img src="https://img.shields.io/badge/List-Awesome-ff69b4?style=flat-square" alt="Awesome List"></a><img src="https://img.shields.io/badge/Topic-AIGI%20Detection-0b7285?style=flat-square" alt="AIGI Detection">
+- Awesome AI-generated Image Detection. [![Awesome List](https://img.shields.io/badge/List-Awesome-FF69B4?style=flat&logo=awesome-lists&logoColor=white)](https://github.com/nxZhai/Awesome-AI-generated-Image-Detection) ![AIGI Detection](https://img.shields.io/badge/Topic-AIGI%20Detection-0B7285?style=flat&logo=ai&logoColor=white)
+
 
 ## Contact information
 
