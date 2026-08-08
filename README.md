@@ -4,6 +4,8 @@ Below is the open-source code for all of my existing works. Welcome to browse, d
 
 ## My recent repositories (NOT a list of publications)
 
+✅ Skill Ctl: Your Local Skill Manager. [![Github](https://img.shields.io/github/stars/nxZhai/Skill-Ctl.svg?style=social&label=Stars)](https://github.com/nxZhai/Skill-Ctl/)
+
 🎉 \[**ACL2026**\] Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning. [![arXiv](https://img.shields.io/badge/arXiv-2601.03190-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.03190) [![Github](https://img.shields.io/github/stars/nxZhai/PALU.svg?style=social&label=Stars)](https://github.com/nxZhai/PALU/)
 
 🎉 \[**WWW2026**\] BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning. [![arXiv](https://img.shields.io/badge/arXiv-2601.09172-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.09172) [![Github](https://img.shields.io/github/stars/nxZhai/BalDRO.svg?style=social&label=Stars)](https://github.com/nxZhai/BalDRO/)
