@@ -1,4 +1,4 @@
-👋 Hi, I am **Naixin Zhai**, an M.Eng. student at USTC, interested in **AI Safety on AI-Generated Content**.
+👋 Hi, I am **Naixin Zhai**, an M.Eng. candidate at USTC, interested in **AI Safety on AI-Generated Content**.
 
 Below is the open-source code for all of my existing works. Welcome to browse, discuss, and collaborate! 
 
