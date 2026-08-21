@@ -12,11 +12,9 @@ Below is the open-source code for all of my existing works. Welcome to browse, d
 
 ---
 
-✅ WorkBar: Offline macOS menu bar task budget and timer app. [![Github](https://img.shields.io/github/stars/nxZhai/WorkBar.svg?style=social&label=Stars)](https://github.com/nxZhai/WorkBar/)
-
-✅ Skill Ctl: Your Local Skill Manager. [![Github](https://img.shields.io/github/stars/nxZhai/Skill-Ctl.svg?style=social&label=Stars)](https://github.com/nxZhai/Skill-Ctl/)
-
-✅ Awesome AI-generated Image Detection. [![Awesome List](https://img.shields.io/badge/List-Awesome-FF69B4?style=flat&logo=awesome-lists&logoColor=white)](https://github.com/nxZhai/Awesome-AI-generated-Image-Detection) ![AIGI Detection](https://img.shields.io/badge/Topic-AIGI%20Detection-0B7285?style=flat&logo=ai&logoColor=white) [![Github](https://img.shields.io/github/stars/nxZhai/Awesome-AI-generated-Image-Detection.svg?style=social&label=Stars)](https://github.com/nxZhai/Awesome-AI-generated-Image-Detection/)
+- ✅ WorkBar: Offline macOS menu bar task budget and timer app. [![Github](https://img.shields.io/github/stars/nxZhai/WorkBar.svg?style=social&label=Stars)](https://github.com/nxZhai/WorkBar/)
+- ✅ Skill Ctl: Your Local Skill Manager. [![Github](https://img.shields.io/github/stars/nxZhai/Skill-Ctl.svg?style=social&label=Stars)](https://github.com/nxZhai/Skill-Ctl/)
+- ✅ Awesome AI-generated Image Detection. [![Awesome List](https://img.shields.io/badge/List-Awesome-FF69B4?style=flat&logo=awesome-lists&logoColor=white)](https://github.com/nxZhai/Awesome-AI-generated-Image-Detection) ![AIGI Detection](https://img.shields.io/badge/Topic-AIGI%20Detection-0B7285?style=flat&logo=ai&logoColor=white) [![Github](https://img.shields.io/github/stars/nxZhai/Awesome-AI-generated-Image-Detection.svg?style=social&label=Stars)](https://github.com/nxZhai/Awesome-AI-generated-Image-Detection/)
 
 ## Contact information
 
